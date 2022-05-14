@@ -2,7 +2,7 @@
 
 ## Prototype - No responsive
 
-#### [Go to the Prototype ](https://henriquegoncalvessilva.github.io/prototypewireframe/index.html)
+#### [Go to the Prototype ](https://henriquegoncalvessilva.github.io/prototypewireframe9/index.html)
 
 ![alt text](https://i.ibb.co/5vzZHRH/wireframe-9.gif)
 
