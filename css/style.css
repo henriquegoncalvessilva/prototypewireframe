@@ -27,18 +27,9 @@ header .container .actions {
   gap: 3.4rem;
 }
 header .container .actions .btn-action {
-  border: 0.1rem solid #c6c5ce;
+  border: 1px solid #c6c5ce;
   border-radius: 0.8rem;
   padding: 1rem 2rem;
-  transition: all 0.3s;
-}
-
-header .container .actions .btn-action:hover {
-  background: #f1f0f5;
-  padding: 1rem 2rem;
-  border-radius: 0.8rem;
-  border: 0.1rem solid #c6c5ce;
-
 }
 .s-hero .container {
   margin-top: 4.1rem;
